@@ -1,15 +1,10 @@
 # PowerBI_dashboard_Madhav_Ecommerce
 
--> Project - key points
+Project - key points
 
- Data collection
- Data cleaning & wrangling
- Data modeling
- Data visualization
- Dashboard design
- Sharing Insights
+ Data collection, Data cleaning & wrangling, Data modeling, Data visualization, Dashboard design and Sharing Insights
 
--> Project Learnings
+Project Learnings
 
  Created interactive dashboard to track and analyze online sales data
 
