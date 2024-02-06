@@ -2,7 +2,7 @@
 
 -> Project - key points
 
- Data collection, Data cleaning & wrangling, Data modeling, Data visualization, Dashboard design and Sharing Insights
+   > Data collection, Data cleaning & wrangling, Data modeling, Data visualization, Dashboard design and Sharing Insights
 
 -> Project Learnings
 
